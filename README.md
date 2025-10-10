@@ -10,7 +10,11 @@
 
 A specialized application designed to mirror your PC screen to Kindle e-readers and other e-ink devices, creating the perfect eye-strain-free secondary display for reading and editing Word documents, PDFs, and text-based work. Also works with any touch-screen device through a web browser - no apps required!
 
-![Kindle PC Mirror Demo](docs/demo-preview.png)
+
+
+Uploading test.mp4…
+
+
 
 ## 🎯 **Primary Use Case: Kindle as Secondary Screen**
 
