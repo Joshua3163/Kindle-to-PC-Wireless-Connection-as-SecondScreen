@@ -12,7 +12,7 @@ A specialized application designed to mirror your PC screen to Kindle e-readers 
 
 
 
-Uploading test.mp4…
+https://github.com/user-attachments/assets/f5261f04-2527-43e3-9a90-52777a721e6b
 
 
 
