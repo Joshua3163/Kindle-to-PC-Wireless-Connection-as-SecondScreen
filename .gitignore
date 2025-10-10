@@ -1,8 +1,7 @@
-# Screen Mirror Server - Git Ignore
+# Kindle PC Mirror - Git Ignore
 
-# Build artifacts
+# Build artifacts (but keep dist/ for executables)
 build/
-dist/
 *.spec
 
 # Python artifacts
@@ -89,6 +88,11 @@ docs/_build/
 # Local configuration
 config.local.py
 settings.local.py
+
+# Process documentation (not needed in repository)
+SETUP_COMPLETE.md
+TRANSFORMATION_COMPLETE.md
+CLEANUP_COMPLETE.md
 
 # Screenshots and demos (add when available)
 # docs/screenshots/
