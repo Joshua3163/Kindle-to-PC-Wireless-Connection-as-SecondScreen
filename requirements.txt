@@ -1,0 +1,16 @@
+# Requirements for building the Screen Mirror Server app
+# Install these with: pip install -r requirements.txt
+
+# Core dependencies for the application
+pillow>=9.0.0
+websockets>=11.0.0
+asyncio
+
+# Build dependencies
+pyinstaller>=5.0.0
+
+# Optional: For Windows-specific features
+# pywin32>=300  # Uncomment if you want advanced Windows features
+
+# Development dependencies (optional)
+# auto-py-to-exe  # GUI for PyInstaller
