@@ -1,32 +1,85 @@
-# 📚 User Guide - Screen Mirror Server
+# � User Guide - Kindle PC Mirror
 
-Welcome to the complete user guide for Screen Mirror Server! This guide will walk you through everything you need to know to get the most out of your screen mirroring experience.
+Welcome to the complete user guide for Kindle PC Mirror! Transform your Kindle into the perfect eye-strain-free secondary screen for document editing, reading, and productivity work.
 
 ## 📖 Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Installation Methods](#installation-methods)
-3. [First Time Setup](#first-time-setup)
-4. [Connecting Devices](#connecting-devices)
-5. [Using the Controls](#using-the-controls)
-6. [Advanced Features](#advanced-features)
-7. [Performance Optimization](#performance-optimization)
-8. [Troubleshooting](#troubleshooting)
-9. [Tips and Tricks](#tips-and-tricks)
+1. [Why Kindle as Secondary Screen?](#why-kindle-as-secondary-screen)
+2. [Getting Started](#getting-started)
+3. [Kindle Setup Guide](#kindle-setup-guide)
+4. [Installation Methods](#installation-methods)
+5. [Connecting Your Kindle](#connecting-your-kindle)
+6. [Optimizing for E-ink Displays](#optimizing-for-e-ink-displays)
+7. [Document Workflows](#document-workflows)
+8. [Advanced Features](#advanced-features)
+9. [Performance Optimization](#performance-optimization)
+10. [Troubleshooting](#troubleshooting)
+11. [Tips and Tricks](#tips-and-tricks)
+
+## 📖 Why Kindle as Secondary Screen?
+
+### 🎯 **Perfect for Digital Work**
+Your Kindle isn't just for reading books! It's the ideal secondary display for:
+- **📝 Document editing** without eye strain
+- **📚 Research and reference** materials
+- **💼 Long work sessions** without fatigue
+- **☀️ Outdoor work** in bright sunlight
+- **🔋 All-day productivity** with incredible battery life
+
+### 👁️ **Health Benefits**
+- **Zero blue light emission** from e-ink displays
+- **No screen flicker** that causes eye fatigue
+- **Perfect for extended reading** sessions
+- **Reduces computer vision syndrome**
+- **Ideal for people with light sensitivity**
+
+### 💡 **Productivity Advantages**
+- **Distraction-free** environment without notifications
+- **Always-on display** that doesn't drain battery
+- **Portable** and lightweight for any workspace
+- **Silent operation** perfect for libraries or quiet spaces
+- **Cost-effective** secondary screen solution
 
 ## 🚀 Getting Started
 
-Screen Mirror Server allows you to wirelessly display your PC screen on any device with a web browser. No apps needed on your phone, tablet, or other devices!
+Kindle PC Mirror allows you to wirelessly display your PC screen on your Kindle e-reader, creating the perfect eye-strain-free secondary display for document work, reading, and productivity tasks.
 
 ### What You Need
 - A Windows PC (Windows 10 or later recommended)
-- A network connection (WiFi or Ethernet)
-- Devices with web browsers to view the screen
+- A Kindle with WiFi capability and Experimental Browser
+- Both devices on the same network connection
+- Documents, PDFs, or text-based work to display
 
 ### How It Works
 1. The app creates a local web server on your PC
-2. You connect to this server from any device on your network
-3. Your screen is streamed in real-time through your web browser
+2. Your Kindle connects to this server through its built-in browser
+3. Your screen (or selected portions) stream to your Kindle in real-time
+4. Optimized refresh rates and quality settings for e-ink displays
+
+## 📖 Kindle Setup Guide
+
+### Compatible Kindle Models
+**Fully Tested:**
+- Kindle Paperwhite (all generations with browser)
+- Kindle Oasis (all generations)
+- Kindle Scribe (excellent for document editing)
+
+**Should Work:**
+- Kindle Voyage
+- Basic Kindle (with browser support)
+- Older Kindle models with Experimental Browser
+
+### Enable Kindle Web Browser
+1. **Turn on your Kindle** and ensure it's connected to WiFi
+2. **Go to Settings** (tap the gear icon)
+3. **Navigate to:** Device Options → Advanced Options
+4. **Find "Experimental Browser"** and enable it if not already active
+5. **Note**: Some newer Kindles call it just "Browser" instead of "Experimental Browser"
+
+### Network Setup
+1. **Ensure** your Kindle and PC are on the same WiFi network
+2. **Check** your WiFi settings on both devices
+3. **For best results**, use a 2.4GHz network (better range and stability)
 
 ## 💾 Installation Methods
 
@@ -72,55 +125,128 @@ The main window shows:
 - **Status**: Whether the server is running
 - **Controls**: Settings for quality, rotation, etc.
 
-## 📱 Connecting Devices
+## � Connecting Your Kindle
 
-### Step-by-Step Connection
+### Step-by-Step Kindle Connection
 
-1. **Start** Screen Mirror Server on your PC
-2. **Look** for the connection URL in the app window
+1. **Start Kindle PC Mirror** on your computer
+2. **Note the connection URL** displayed in the app window
    - Example: `http://192.168.1.100:8000`
-3. **Ensure** your device is on the same WiFi network as your PC
-4. **Open** any web browser on your device (Chrome, Safari, Firefox, etc.)
-5. **Type** the connection URL in the address bar
-6. **Press** Enter and wait for the page to load
-7. **Click** the "Connect" button on the webpage
-8. **Enjoy** your mirrored screen!
+3. **On your Kindle**: Tap the browser icon (or go to Experimental Browser)
+4. **Clear the address bar** and type the full URL
+5. **Navigate** to the page (may take 10-15 seconds to load)
+6. **Tap "Connect"** button on the webpage
+7. **Wait** for the initial image to appear (first load can take 30 seconds)
+8. **Enjoy** your eye-strain-free secondary display!
 
-### Connection Troubleshooting
-If you can't connect:
-- ✅ **Same Network**: Both devices must be on the same WiFi
-- 🔥 **Firewall**: Temporarily disable Windows Firewall to test
-- 🌐 **Test Locally**: First try the URL on your PC's browser
-- 📱 **Try Different Browser**: Some browsers work better than others
+### Kindle-Specific Tips
+- **First connection** always takes longer - be patient!
+- **Tap refresh** in browser if connection seems stuck
+- **Use landscape mode** on Kindle for wider documents
+- **Portrait mode** is perfect for reading documents and PDFs
+- **Bookmark the page** for quick access later
+
+### Optimizing Connection Quality
+1. **Start with these settings:**
+   - Quality: 80% (for crisp text)
+   - Resolution: 1.0x (full detail)
+   - FPS: 2-3 (perfect for e-ink refresh rate)
+   - Rotation: 90° (portrait) for documents
+
+2. **If connection is slow:**
+   - Reduce quality to 60%
+   - Try resolution scale of 0.8x
+   - Lower FPS to 1-2
+
+## 🔧 Optimizing for E-ink Displays
+
+### Perfect Settings for Kindle
+```
+Quality: 70-90% (crisp text without overloading)
+Resolution Scale: 0.8-1.0x (full detail for reading)
+FPS: 1-3 (matches e-ink refresh capabilities)
+Rotation: 90° for documents, 0° for wide content
+```
+
+### E-ink Display Considerations
+- **Refresh Rate**: E-ink displays refresh slowly (1-2 seconds)
+- **Contrast**: High contrast works better than subtle grays
+- **Text Size**: Larger text displays better on e-ink
+- **Scrolling**: Slow, deliberate scrolling works best
+- **Colors**: E-ink shows only black, white, and grays
+
+### Document Display Optimization
+1. **Word Documents**: Use large fonts (14pt+) and high contrast themes
+2. **PDFs**: Zoom to comfortable reading size before mirroring
+3. **Web Pages**: Use reader mode or high contrast extensions
+4. **Code Editors**: Use high contrast themes with large fonts
+5. **Spreadsheets**: Zoom to show fewer columns but larger text
+
+## 📝 Document Workflows
+
+### Writing and Editing Workflow
+1. **Setup**: Open your document on PC, mirror to Kindle
+2. **Position**: Place Kindle beside your keyboard for easy reference
+3. **Work**: Edit on PC while reading current section on Kindle
+4. **Benefits**: No need to scroll up/down constantly, reduced eye strain
+
+### Research Workflow
+1. **Research Window**: Open research materials/PDFs on one monitor
+2. **Mirror to Kindle**: Display research content on Kindle
+3. **Write**: Use main monitor for writing while referencing Kindle
+4. **Advantages**: Keep references visible while writing, no window switching
+
+### Document Review Workflow
+1. **Full Document**: Display entire document on Kindle for overview
+2. **Section Focus**: Show specific sections while editing on PC
+3. **Track Changes**: View document with comments/changes on Kindle
+4. **Proofreading**: Read entire document on eye-friendly Kindle display
+
+### Presentation Workflow
+1. **Teleprompter**: Display presentation notes on Kindle
+2. **Speaker Notes**: Keep talking points visible during video calls
+3. **Reference**: Show key data/charts during presentations
+4. **Portable**: Take Kindle anywhere for reference material
+
+### Coding Workflow
+1. **Documentation**: Keep API docs or references on Kindle
+2. **Code Review**: Display code files for review on Kindle
+3. **Terminal Output**: Monitor logs or output on secondary screen
+4. **Testing**: Keep test cases or requirements visible
 
 ## 🎮 Using the Controls
 
 ### PC Server Controls
 
-#### Quality Settings
-- **Quality Slider**: 10-95% - Lower = faster, Higher = clearer
-- **Resolution Scale**: 0.1x to 1.0x - Lower = smaller image, faster
-- **FPS Control**: 1-30 frames per second - Lower = less smooth, faster
+#### Kindle-Optimized Settings
+- **Quality Slider**: 70-90% (optimized for text clarity)
+- **Resolution Scale**: 0.8-1.0x (full detail for reading)
+- **FPS Control**: 1-3 frames per second (perfect for e-ink)
+- **Rotation**: 90° for portrait documents, 0° for landscape
 
 #### Display Options
-- **Rotation**: Choose 0°, 90°, 180°, or 270° rotation
-- **Monitor Selection**: Choose which monitor to share (if you have multiple)
+- **Monitor Selection**: Choose which monitor to share
+- **Rotation**: Perfect orientation for different document types
+- **Area Selection**: Mirror specific windows or screen regions
 
 #### Network Settings
 - **Auto IP Detection**: Automatically finds your network IP
 - **Port Settings**: Uses ports 8000 and 8765 (usually automatic)
+- **Connection Status**: Shows connected Kindle devices
 
-### Mobile/Device Controls
+### Kindle/Device Controls
 
-#### On the Webpage
-- **🔄 Rotate Button**: Cycle through rotation angles (0°, 90°, 180°, 270°)
+#### On the Kindle Browser
+- **🔄 Rotate Button**: Cycle through rotation angles
 - **📺 Monitor Button**: Switch between monitors (if multiple available)
-- **⛶ Fullscreen Button**: Enter fullscreen mode for immersive viewing
+- **⛶ Fullscreen Button**: Enter fullscreen mode
+- **🔄 Refresh**: Reload connection if needed
 
-#### Touch Gestures
-- **Pinch to Zoom**: Zoom in/out on the mirrored screen
-- **Drag to Pan**: Move around when zoomed in
-- **Double Tap**: Toggle fullscreen mode
+#### Kindle Navigation
+- **Tap to navigate**: Use touchscreen to interact with browser
+- **Zoom**: Pinch gesture on touchscreen Kindles
+- **Page turn buttons**: Can be used for browser navigation on some models
+- **Menu button**: Access browser menu and bookmarks
 
 ## 🔧 Advanced Features
 
